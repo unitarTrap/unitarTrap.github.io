@@ -48,13 +48,10 @@
   padding: 2.5rem 0;
   color: #919aa1;
   text-align: center;
-  background-color: #f7f7f9;
 }
 
 
 body {
-    background: #000 url('../img/qf6v3341dqz41.png'); /* Фоновый цвет и фоновый рисунок*/
-    color: #fff; /*Цвет текста на странице*/
-    background-attachment: fixed; /* Фон страницы фиксируется */
-    background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
+    background: #000 url('/static/img/51923356_091b8d207088350074ad1b8f62257fc7_800.gif');
+     ower/* Фоновый цвет и фоновый рисунок*/
 }
