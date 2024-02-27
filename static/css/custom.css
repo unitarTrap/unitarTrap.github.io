@@ -52,6 +52,6 @@
 
 
 body {
-    background: #000 url('/static/img/51923356_091b8d207088350074ad1b8f62257fc7_800.gif');
-     ower/* Фоновый цвет и фоновый рисунок*/
+    background: #000 url('/static/img/wallpaper2.png'); /* Фоновый цвет и фоновый рисунок*/
+    background-size: 100%;
 }
