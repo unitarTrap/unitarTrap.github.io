@@ -50,3 +50,11 @@
   text-align: center;
   background-color: #f7f7f9;
 }
+
+
+body {
+    background: #000 url('../img/qf6v3341dqz41.png'); /* Фоновый цвет и фоновый рисунок*/
+    color: #fff; /*Цвет текста на странице*/
+    background-attachment: fixed; /* Фон страницы фиксируется */
+    background-repeat: repeat-x; /* Изображение повторяется по горизонтали */
+}
